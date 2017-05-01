@@ -12,7 +12,7 @@ For example, in Linux: g++ -std=c++14 tester.cpp -o tester && ./tester
 #include <cstdio>
 #include <cassert>
 #include <cstring>
-#include "mystring_6.h"
+#include "mystring.h"
 #include "testhelper.h"
 
 using std::printf;
